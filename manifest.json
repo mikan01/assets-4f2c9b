@@ -67,52 +67,8 @@
       ]
     },
     {
-      "id": "waelum",
-      "name": "03 waelum",
-      "description": "",
-      "version": "1.3.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/waelum.js",
-      "enabled": true,
-      "hasSettings": true,
-      "formats": [
-        "mp4",
-        "m3u8",
-        "mkv"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "tyvrel",
-      "name": "04 tyvrel",
-      "description": "",
-      "version": "1.1.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/tyvrel.js",
-      "enabled": true,
-      "formats": [
-        "m3u8",
-        "mp4"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
       "id": "mavonyx",
-      "name": "05 mavonyx",
+      "name": "03 mavonyx",
       "description": "",
       "version": "1.7.0",
       "author": "",
@@ -134,29 +90,8 @@
       ]
     },
     {
-      "id": "esvyl",
-      "name": "06 esvyl",
-      "description": "",
-      "version": "1.1.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/esvyl.js",
-      "enabled": true,
-      "formats": [
-        "mp4",
-        "m3u8"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
       "id": "bingr",
-      "name": "07 bingr",
+      "name": "04 bingr",
       "description": "",
       "version": "1.0.4",
       "author": "",
@@ -176,7 +111,7 @@
     },
     {
       "id": "qyrvaen",
-      "name": "08 qyrvaen",
+      "name": "05 qyrvaen",
       "description": "",
       "version": "1.1.0",
       "author": "",
@@ -198,7 +133,7 @@
     },
     {
       "id": "cinejoy",
-      "name": "09 cinejoy",
+      "name": "06 cinejoy",
       "description": "",
       "version": "1.0.9",
       "author": "",
@@ -219,7 +154,7 @@
     },
     {
       "id": "maelith",
-      "name": "10 maelith",
+      "name": "07 maelith",
       "description": "",
       "version": "1.1.0",
       "author": "",
