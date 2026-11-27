@@ -35,7 +35,7 @@
         "tv"
       ],
       "filename": "https://raw.githubusercontent.com/NuvioPlugin/All-in-One-Nuvio/main/providers/gramcinema.js",
-      "enabled": false,
+      "enabled": true,
       "hasSettings": true,
       "formats": [
         "mp4",
@@ -47,94 +47,8 @@
       ]
     },
     {
-      "id": "streamflow",
-      "name": "03 streamflow",
-      "description": "",
-      "version": "1.0.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://raw.githubusercontent.com/mintugoud21/streamflow-stremio-nuvio/main/providers/streamflow.js",
-      "enabled": false,
-      "formats": [
-        "m3u8",
-        "mp4",
-        "mkv"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "soryn",
-      "name": "04 soryn",
-      "description": "",
-      "version": "3.4.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/soryn.js",
-      "enabled": false,
-      "formats": [
-        "mp4",
-        "m3u8",
-        "mkv"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "karnis",
-      "name": "05 karnis",
-      "description": "",
-      "version": "1.6.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/karnis.js",
-      "enabled": false,
-      "formats": [
-        "mp4",
-        "m3u8"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "wrenok",
-      "name": "06 wrenok",
-      "description": "",
-      "version": "1.1.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/wrenok.js",
-      "enabled": false,
-      "formats": [
-        "m3u8",
-        "mp4"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
       "id": "movy",
-      "name": "07 movy",
+      "name": "02 movy",
       "description": "",
       "version": "1.0.4",
       "author": "",
@@ -154,7 +68,7 @@
     },
     {
       "id": "waelum",
-      "name": "08 waelum",
+      "name": "03 waelum",
       "description": "",
       "version": "1.3.0",
       "author": "",
@@ -177,7 +91,7 @@
     },
     {
       "id": "tyvrel",
-      "name": "09 tyvrel",
+      "name": "04 tyvrel",
       "description": "",
       "version": "1.1.0",
       "author": "",
@@ -197,51 +111,8 @@
       ]
     },
     {
-      "id": "desiflix",
-      "name": "10 desiflix",
-      "description": "",
-      "version": "1.0.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://raw.githubusercontent.com/NuvioPlugin/All-in-One-Nuvio/main/providers/desiflix.js",
-      "enabled": false,
-      "formats": [
-        "mp4",
-        "mkv",
-        "m3u8"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "evyrith",
-      "name": "11 evyrith",
-      "description": "",
-      "version": "1.1.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/evyrith.js",
-      "enabled": false,
-      "formats": [
-        "mp4",
-        "m3u8"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
       "id": "mavonyx",
-      "name": "12 mavonyx",
+      "name": "05 mavonyx",
       "description": "",
       "version": "1.7.0",
       "author": "",
@@ -263,31 +134,8 @@
       ]
     },
     {
-      "id": "hexion",
-      "name": "13 hexion",
-      "description": "",
-      "version": "1.5.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/hexion.js",
-      "enabled": false,
-      "hasSettings": true,
-      "formats": [
-        "mkv",
-        "m3u8",
-        "mp4"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
       "id": "esvyl",
-      "name": "14 esvyl",
+      "name": "06 esvyl",
       "description": "",
       "version": "1.1.0",
       "author": "",
@@ -307,30 +155,8 @@
       ]
     },
     {
-      "id": "rynara",
-      "name": "15 rynara",
-      "description": "",
-      "version": "1.1.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/rynara.js",
-      "enabled": false,
-      "hasSettings": true,
-      "formats": [
-        "mp4",
-        "m3u8"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
       "id": "bingr",
-      "name": "16 bingr",
+      "name": "07 bingr",
       "description": "",
       "version": "1.0.4",
       "author": "",
@@ -350,7 +176,7 @@
     },
     {
       "id": "qyrvaen",
-      "name": "17 qyrvaen",
+      "name": "08 qyrvaen",
       "description": "",
       "version": "1.1.0",
       "author": "",
@@ -372,7 +198,7 @@
     },
     {
       "id": "cinejoy",
-      "name": "18 cinejoy",
+      "name": "09 cinejoy",
       "description": "",
       "version": "1.0.9",
       "author": "",
@@ -392,154 +218,8 @@
       ]
     },
     {
-      "id": "quinox",
-      "name": "19 quinox",
-      "description": "",
-      "version": "1.1.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/quinox.js",
-      "enabled": false,
-      "formats": [
-        "mp4",
-        "m3u8"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "movieshubhd",
-      "name": "20 movieshubhd",
-      "description": "",
-      "version": "1.0.7",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://raw.githubusercontent.com/Skywave22/Plugins-TJ/main/providers/movieshubhd.js",
-      "enabled": false,
-      "formats": [
-        "m3u8",
-        "mp4"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "net77",
-      "name": "21 net77",
-      "description": "",
-      "version": "1.0.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://raw.githubusercontent.com/Skywave22/Plugins-TJ/main/providers/net77.js",
-      "enabled": false,
-      "formats": [
-        "m3u8"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "sylphera",
-      "name": "22 sylphera",
-      "description": "",
-      "version": "1.3.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/sylphera.js",
-      "enabled": false,
-      "formats": [
-        "m3u8",
-        "mp4",
-        "mkv"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "uhdmovies",
-      "name": "23 uhdmovies",
-      "description": "",
-      "version": "1.2.1",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://raw.githubusercontent.com/NuvioPlugin/All-in-One-Nuvio/main/providers/uhdmovies.js",
-      "enabled": false,
-      "formats": [
-        "mkv"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "fendrix",
-      "name": "24 fendrix",
-      "description": "",
-      "version": "1.6.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/fendrix.js",
-      "enabled": false,
-      "formats": [
-        "m3u8"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "1shows",
-      "name": "25 1shows",
-      "description": "",
-      "version": "1.0.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://raw.githubusercontent.com/NuvioPlugin/All-in-One-Nuvio/main/providers/1shows.js",
-      "enabled": false,
-      "formats": [
-        "mkv",
-        "mp4",
-        "m3u8"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
       "id": "maelith",
-      "name": "26 maelith",
+      "name": "10 maelith",
       "description": "",
       "version": "1.1.0",
       "author": "",
@@ -551,287 +231,6 @@
       "enabled": true,
       "formats": [
         "mp4",
-        "m3u8"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "xylos",
-      "name": "27 xylos",
-      "description": "",
-      "version": "1.1.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv",
-        "series"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/xylos.js",
-      "enabled": false,
-      "formats": [
-        "mp4",
-        "mkv",
-        "m3u8"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "ozeris",
-      "name": "28 ozeris",
-      "description": "",
-      "version": "1.1.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/ozeris.js",
-      "enabled": false,
-      "formats": [
-        "m3u8"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "onyxia",
-      "name": "29 onyxia",
-      "description": "",
-      "version": "1.1.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/onyxia.js",
-      "enabled": false,
-      "hasSettings": true,
-      "formats": [
-        "m3u8"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "zyrvael",
-      "name": "30 zyrvael",
-      "description": "",
-      "version": "1.3.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/zyrvael.js",
-      "enabled": false,
-      "hasSettings": true,
-      "formats": [
-        "m3u8",
-        "mp4"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "praxiel",
-      "name": "31 praxiel",
-      "description": "",
-      "version": "1.2.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/praxiel.js",
-      "enabled": false,
-      "hasSettings": true,
-      "formats": [
-        "mkv"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "lenyr",
-      "name": "32 lenyr",
-      "description": "",
-      "version": "2.1.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/lenyr.js",
-      "enabled": false,
-      "formats": [
-        "mp4",
-        "m3u8"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "fyron",
-      "name": "33 fyron",
-      "description": "",
-      "version": "1.1.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/fyron.js",
-      "enabled": false,
-      "formats": [
-        "m3u8",
-        "mp4"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "subdubanime",
-      "name": "34 subdubanime",
-      "description": "",
-      "version": "1.0.4",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://raw.githubusercontent.com/Skywave22/Plugins-TJ/main/providers/subdubanime.js",
-      "enabled": false,
-      "formats": [
-        "m3u8",
-        "mp4"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "vitrix",
-      "name": "35 vitrix",
-      "description": "",
-      "version": "1.1.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/vitrix.js",
-      "enabled": false,
-      "formats": [
-        "mp4",
-        "m3u8",
-        "mkv"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "pikahd",
-      "name": "36 pikahd",
-      "description": "",
-      "version": "1.0.1",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://raw.githubusercontent.com/Skywave22/Plugins-TJ/main/providers/pikahd.js",
-      "enabled": false,
-      "formats": [
-        "mp4",
-        "mkv"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "ilvyrel",
-      "name": "37 ilvyrel",
-      "description": "",
-      "version": "1.1.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://cbcdn.githack.com/eclipsia/nuvio-plugin-es5/raw/branch/pages/providers/ilvyrel.js",
-      "enabled": false,
-      "formats": [
-        "mkv",
-        "m3u8",
-        "mp4"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "anihype",
-      "name": "38 anihype",
-      "description": "",
-      "version": "1.0.4",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://raw.githubusercontent.com/Skywave22/Plugins-TJ/main/providers/anihype.js",
-      "enabled": false,
-      "formats": [
-        "m3u8",
-        "mp4"
-      ],
-      "logo": "",
-      "contentLanguage": [
-        "en"
-      ]
-    },
-    {
-      "id": "kurage",
-      "name": "39 kurage",
-      "description": "",
-      "version": "1.0.0",
-      "author": "",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "https://raw.githubusercontent.com/NuvioPlugin/All-in-One-Nuvio/main/providers/kurage.js",
-      "enabled": false,
-      "hasSettings": true,
-      "resources": [
-        "stream"
-      ],
-      "formats": [
-        "mkv",
         "m3u8"
       ],
       "logo": "",
